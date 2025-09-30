@@ -4,6 +4,8 @@ description: This tutorial contains information on moving data to MATLAB.
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/325d41fcaabe4cdb887db3e8310a8ffc_tomatlab.pdf
 file_size: 75935
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

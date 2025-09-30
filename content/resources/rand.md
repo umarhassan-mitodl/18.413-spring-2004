@@ -5,6 +5,8 @@ description: This tutorial contains information on How to generate random number
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/dcb277587f8648439f764faacffaa6fb_rand.pdf
 file_size: 111843
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

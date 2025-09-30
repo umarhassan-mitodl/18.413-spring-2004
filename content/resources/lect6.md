@@ -4,6 +4,8 @@ description: Outline of Lecture 6.
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/41ad43fa58543246660bb36a3b5bc28c_lect6.pdf
 file_size: 126867
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

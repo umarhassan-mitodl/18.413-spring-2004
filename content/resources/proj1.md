@@ -7,6 +7,8 @@ description: 'Instructions and guidelines for Project 1. In this project,you are
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/99350006ac1401df412cbff5c3ac6df9_proj1.pdf
 file_size: 103474
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

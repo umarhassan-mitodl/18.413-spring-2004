@@ -7,6 +7,8 @@ description: 'Instructions and guidelines for Small Project 3. In this project,y
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/0088de9215ecbff82bb4af9959698a7d_sp3.pdf
 file_size: 64999
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
