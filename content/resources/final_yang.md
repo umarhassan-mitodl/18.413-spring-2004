@@ -5,8 +5,6 @@ description: Sample of a student's final project. This final project report cour
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/8897d87c424dcebc1594691961c6d62d_final_yang.pdf
 file_size: 120197
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

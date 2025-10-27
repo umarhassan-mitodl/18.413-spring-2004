@@ -5,8 +5,6 @@ description: This tutorial contains information on the speed comparisons in MATL
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/277b9f378355b5ed2f8a92ec20b43d84_speedtests.pdf
 file_size: 98139
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

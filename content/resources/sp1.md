@@ -5,8 +5,6 @@ description: This handout contains an example of how you ideally would have plot
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/cb3c7299a8323123613eaa348c2c3c66_sp1.pdf
 file_size: 266706
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This tutorial contains tips on plotting data.
 file: /courses/18-413-error-correcting-codes-laboratory-spring-2004/26d9d6cff3e0c9a750fa3249275b5a28_plotting.pdf
 file_size: 103908
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
